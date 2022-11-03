@@ -480,9 +480,9 @@ section {
   padding: 80px 0;
 }
 #about .about-container .background {
-  min-height: 2000px;
+  min-height: 1500px;
   background: url(https://scontent-den4-1.xx.fbcdn.net/v/t39.30808-6/260902481_10226374742857807_5338153766767295000_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=bCcR2ppfGtoAX-u84vN&_nc_ht=scontent-den4-1.xx&oh=00_AfBftgz_ssL9N-gRhse6ytXtVkvEWTHFzlCLDhA5UGLvOg&oe=63696333) center top no-repeat; /* this sets the image and properties on the about page */
-  margin-bottom: 0px;
+  margin-bottom: 15px;
 }
 #about .about-container .content {
   background: #fff;
