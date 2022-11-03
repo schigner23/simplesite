@@ -481,7 +481,6 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  max-width: 100%;
   background: url(file:///C:/Users/shelb/OneDrive/Pictures/260902481_10226374742857807_5338153766767295000_n%20(2).jpg) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
