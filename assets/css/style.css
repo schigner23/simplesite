@@ -480,9 +480,8 @@ section {
   padding: 15px 0;
 }
 #about .about-container .background {
-  max-width: 100%;
-  max-height: 500px;
-  background: url(https://github.com/schigner23/simplesite/blob/main/assets/img/shelby-family.jpg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
+  min-height: 1500px;
+  background: url(https://github.com/schigner23/simplesite/blob/main/assets/img/260902481_10226374742857807_5338153766767295000_n%20(2).jpg) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0;
 }
 #about .about-container .content {
