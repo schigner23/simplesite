@@ -482,7 +482,6 @@ section {
 #about .about-container .background {
   min-height: 1200px;
   min-width: none;
-  max-width: 100%;
   background: url(/assets/img/SchignerFamily.jpg) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
