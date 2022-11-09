@@ -481,9 +481,9 @@ section {
 }
 #about .about-container .background {
   max-width: 100%;
-  height: auto;
+  min-height: 1500px;
   background: url(https://github.com/schigner23/simplesite/blob/main/assets/img/shelby-family.jpg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 #about .about-container .content {
   background: #fff;
